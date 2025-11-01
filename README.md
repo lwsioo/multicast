@@ -1,8 +1,8 @@
 # 📡 Multicast Chat
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GitHub repo size](https://img.shields.io/github/repo-size/lwsioo/multicastOK?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/lwsioo/multicastOK?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/lwsioo/multicastOK?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/MrErmita/multicastOK?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/MrErmita/multicastOK?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/MrErmita/multicastOK?style=for-the-badge)
 
 Un semplice sistema di comunicazione basato su **Multicast UDP** in **Java**. Questo progetto permette di trasmettere messaggi a più client contemporaneamente utilizzando la tecnologia multicast. 🔥
 
